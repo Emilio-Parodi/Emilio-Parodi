@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hola 👋, my name is Emilio Parodi
+#### I am developer Desarrollo Web Full Stack (https://tenor.com/3mRO.gif )
 
-<!--
-**Emilio-Parodi/Emilio-Parodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Habilidades:  HTML / CSS / JS / Bootstrap / SQL / Nodejs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estoy aprendiendo React Native.js 
+
+
+
+
+
+
+
+
