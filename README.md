@@ -6,7 +6,7 @@
 
 skill: HTML5 / CSS3 / JS / Bootstrap / SQL / Nodejs
 
-- 🌱 I am learning React Native.js for Mobile Development (Android, ios). 
+- React Native.js for Mobile Development (Android, ios). 
 
 
 
